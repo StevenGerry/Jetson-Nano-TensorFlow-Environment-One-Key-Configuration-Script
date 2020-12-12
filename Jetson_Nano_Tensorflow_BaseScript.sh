@@ -40,6 +40,10 @@ sleep(3)
 echo ===========INSTALL OTHER APP=============
 sudo apt-get install emacs
 sudo apt-get install vlc
+pip install pillow
+pip install matplotlib
+pip install configparser
+
 
 echo ===WARNING!!!!!!___WILL REBOOT IN 10 SECONDS===
 sleep(10)
