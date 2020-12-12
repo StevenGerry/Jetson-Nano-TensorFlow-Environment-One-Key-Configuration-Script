@@ -1,5 +1,5 @@
 # Jetson-Nano-TensorFlow-Environment-One-Key-Configuration-Script
-For Jetson Nano which under Jetpack 4.4.x, the Tensorflow environment one-key configuration script.
+For Jetson Nano with Jetpack 4.4.x, the Tensorflow environment one-key configuration script.
 
 Suitable for newly installed image system
 
